@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-class urlmanager:
+class UrlManager:
     def __init__(self):
         self.new_url_list = set()
         self.old_url_list = set()
